@@ -1,0 +1,127 @@
+div.userpro-sc-bar {
+	border-bottom: 1px solid #eee;
+}
+
+a.userpro-count-link {
+	float: left;
+	display: block;
+	padding: 10px 15px;
+	font-size: 11px !important;
+	border-right: 1px solid #eee;
+	color: #999 !important;
+	text-transform: uppercase;
+}
+a.userpro-count-link span {
+	display: block;
+	margin: 0 0 8px 0 !important;
+	font-weight: bold;
+	font-size: 14px;
+	color: #333 !important;
+}
+a.userpro-count-link:hover {color: #336699 !important}
+
+a.userpro-follow {font-size: 11px !important;}
+a.userpro-button i {margin: 0 10px 0 0 !important;font-size: 14px !important;}
+a.userpro-button.secondary i {color: #444;}
+
+/* left - right */
+div.userpro-sc-left {
+	float: left;
+}
+
+div.userpro-sc-right {
+	float: right;
+	padding: 12px 0 0 0;
+}
+
+/* users */
+div.userpro-sc {
+	padding: 15px;
+	border-bottom: 1px solid #eee;
+	position: relative;
+}
+
+div.userpro-sc:last-child {border-bottom: 0 !important;}
+
+div.userpro-sc-noborder {border-bottom: 0 !important;}
+
+div.userpro-sc-btn {
+	position: absolute;
+	right: 0;
+	top: 15px;
+}
+
+div.userpro-sc-img {
+	float: left;
+	margin: 0 15px 0 0;
+}
+
+div.userpro-sc-img a:hover {opacity: 0.8 !important}
+div.userpro-sc-img img {
+	display: block;
+	overflow: hidden;
+	box-shadow: none !important;
+	border-radius: 999px !important;
+}
+
+div.userpro-sc-i {
+	padding-right: 80px;
+	margin: 0 0 0 65px;
+}
+
+div.userpro-sc-i-name a {
+	font-size: 14px;
+	font-weight: bold;
+	color: #333 !important;
+}
+div.userpro-sc-i-name a:hover {text-decoration: underline !important}
+
+div.userpro-sc-i-icons {padding: 8px 0 0 0;}
+
+div.userpro-sc-i-bio {
+	font-size: 12px !important;
+	line-height: 20px !important;
+	color: #999 !important;
+}
+
+/* status */
+span.userpro-sc-i-info {
+	margin: 0 0 0 8px;
+}
+
+span.userpro-sc-i-info a {
+	display: inline-block !important;
+	font-size: 12px !important;
+	font-weight: normal;
+	color: #336699 !important;
+}
+
+span.userpro-sc-i-info a:hover {text-decoration: underline !important}
+
+span.userpro-sc-i-sp {
+	font-size: 12px;
+	display: block !important;
+	padding: 4px 0 0 0;
+}
+
+div.userpro-sc-i-time {
+	margin: 2px 0 0 0;
+	font-size: 11px;
+	color: #aaa;
+}
+
+/* misc */
+div.userpro-sc-flw {
+	display: block;
+	margin: 9px 0 0 0;
+}
+
+/* load more */
+div.userpro-sc-load {
+	text-align: center;
+	padding: 15px;
+}
+
+div.userpro-sc-load img.userpro-sc-loader{
+	display: none;
+}

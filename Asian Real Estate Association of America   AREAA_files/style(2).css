@@ -1,0 +1,4 @@
+div.emd-filters label.userpro-radio span {background: url(img/unchecked.png) no-repeat center;}
+div.emd-filters label.userpro-radio span.checked {background: url(img/checked.png) no-repeat center;}
+div.emd-filters label.userpro-checkbox span {background: url(img/unchecked-checkbox.png) no-repeat center;}
+div.emd-filters label.userpro-checkbox span.checked {background: url(img/checked-checkbox.png) no-repeat center;}
